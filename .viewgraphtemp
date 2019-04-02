@@ -5,197 +5,193 @@ style = "bold",
 color = "black",
 fontsize = 20,
 ];
-	"37
-(14)"[style = "bold", color="red", pos = "12.5,1.25!" ];
 	"36
-(14)"[style = "bold", color="red", pos = "13.75,17.9167!" ];
+(21)"[style = "bold", color="red", pos = "16.7677,0!" ];
 	"35
-(13)"[style = "bold", color="red", pos = "4.16667,17.0833!" ];
+(66)"[style = "bold", color="red", pos = "16.5657,14.5455!" ];
 	"34
-(24)"[style = "bold", color="red", pos = "7.5,5.83333!" ];
+(19)"[style = "bold", color="red", pos = "10.101,7.27273!" ];
 	"33
-(2)"[style = "bold", color="red", pos = "6.66667,15.8333!" ];
+(8)"[style = "bold", color="red", pos = "3.0303,6.86869!" ];
 	"32
-(3)"[style = "bold", color="red", pos = "18.3333,9.16667!" ];
+(21)"[style = "bold", color="red", pos = "13.5354,17.5758!" ];
 	"31
-(7)"[style = "bold", color="red", pos = "12.5,2.5!" ];
+(21)"[style = "bold", color="red", pos = "9.29293,7.27273!" ];
 	"30
-(25)"[style = "bold", color="red", pos = "6.66667,8.75!" ];
+(26)"[style = "bold", color="red", pos = "11.3131,16.1616!" ];
 	"29
-(19)"[style = "bold", color="red", pos = "7.08333,6.25!" ];
+(18)"[style = "bold", color="red", pos = "19.1919,1.0101!" ];
 	"28
-(4)"[style = "bold", color="red", pos = "12.0833,4.16667!" ];
+(3)"[style = "bold", color="red", pos = "0,11.1111!" ];
 	"27
-(12)"[style = "bold", color="red", pos = "19.1667,1.25!" ];
+(8)"[style = "bold", color="red", pos = "20,15.1515!" ];
 	"26
-(13)"[style = "bold", color="red", pos = "3.33333,10!" ];
+(20)"[style = "bold", color="red", pos = "8.08081,11.5152!" ];
 	"25
-(12)"[style = "bold", color="red", pos = "5.41667,2.08333!" ];
+(4)"[style = "bold", color="red", pos = "16.3636,14.1414!" ];
 	"24
-(8)"[style = "bold", color="red", pos = "14.5833,12.5!" ];
+(18)"[style = "bold", color="red", pos = "18.7879,5.25253!" ];
 	"23
-(21)"[style = "bold", color="red", pos = "3.75,15.4167!" ];
+(9)"[style = "bold", color="red", pos = "0,16.1616!" ];
 	"22
-(20)"[style = "bold", color="red", pos = "19.5833,2.91667!" ];
+(12)"[style = "bold", color="red", pos = "3.63636,16.3636!" ];
 	"21
-(9)"[style = "bold", color="red", pos = "9.16667,10.4167!" ];
+(19)"[style = "bold", color="red", pos = "4.0404,10.5051!" ];
 	"20
-(26)"[style = "bold", color="red", pos = "18.3333,7.08333!" ];
+(5)"[style = "bold", color="red", pos = "9.29293,3.0303!" ];
 	"19
-(5)"[style = "bold", color="red", pos = "9.16667,6.66667!" ];
+(10)"[style = "bold", color="red", pos = "9.09091,7.47475!" ];
 	"18
-(19)"[style = "bold", color="red", pos = "9.58333,6.66667!" ];
+(8)"[style = "bold", color="red", pos = "13.1313,6.46465!" ];
 	"17
-(13)"[style = "bold", color="red", pos = "12.9167,17.9167!" ];
+(14)"[style = "bold", color="red", pos = "10.7071,7.47475!" ];
 	"16
-(9)"[style = "bold", color="red", pos = "2.91667,0.833333!" ];
+(17)"[style = "bold", color="red", pos = "17.3737,7.27273!" ];
 	"15
-(13)"[style = "bold", color="red", pos = "20,17.9167!" ];
+(19)"[style = "bold", color="red", pos = "12.1212,16.7677!" ];
 	"14
-(17)"[style = "bold", color="red", pos = "15.4167,12.5!" ];
+(13)"[style = "bold", color="red", pos = "14.9495,4.44444!" ];
 	"13
-(5)"[style = "bold", color="red", pos = "15.4167,16.6667!" ];
+(26)"[style = "bold", color="red", pos = "12.5253,11.1111!" ];
 	"12
-(1)"[style = "bold", color="red", pos = "2.08333,8.33333!" ];
+(2)"[style = "bold", color="red", pos = "4.84848,18.5859!" ];
 	"11
-(25)"[style = "bold", color="red", pos = "19.1667,0!" ];
+(16)"[style = "bold", color="red", pos = "7.87879,16.9697!" ];
 	"10
-(8)"[style = "bold", color="red", pos = "8.33333,8.75!" ];
+(19)"[style = "bold", color="red", pos = "8.28283,14.9495!" ];
 	"9
-(23)"[style = "bold", color="red", pos = "11.25,12.9167!" ];
+(19)"[style = "bold", color="red", pos = "3.63636,8.68687!" ];
 	"8
-(19)"[style = "bold", color="red", pos = "7.08333,15!" ];
+(20)"[style = "bold", color="red", pos = "6.66667,0.20202!" ];
 	"7
-(11)"[style = "bold", color="red", pos = "17.9167,4.16667!" ];
+(12)"[style = "bold", color="red", pos = "16.7677,7.27273!" ];
 	"6
-(12)"[style = "bold", color="red", pos = "7.5,5!" ];
+(18)"[style = "bold", color="red", pos = "12.3232,2.62626!" ];
 	"5
-(18)"[style = "bold", color="red", pos = "17.9167,2.91667!" ];
+(7)"[style = "bold", color="red", pos = "2.42424,1.0101!" ];
 	"4
-(12)"[style = "bold", color="red", pos = "2.08333,1.25!" ];
+(5)"[style = "bold", color="red", pos = "13.3333,7.07071!" ];
 	"3
-(8)"[style = "bold", color="red", pos = "0,7.91667!" ];
+(23)"[style = "bold", color="red", pos = "4.84848,2.22222!" ];
 	"2
-(5)"[style = "bold", color="red", pos = "14.5833,14.5833!" ];
+(23)"[style = "bold", color="red", pos = "0.606061,9.69697!" ];
 	"1
-(12)"[style = "bold", color="red", pos = "0.416667,5.41667!" ];
-	"0"[style = "bold", color="blue", pos = "14.1667,11.25!" ];
-	"0" -- "7
-(11)" [style = "bold", label = "", color="black" ];
-	"7
-(11)" -- "5
-(18)" [style = "bold", label = "", color="black" ];
-	"5
-(18)" -- "11
-(25)" [style = "bold", label = "", color="black" ];
+(1)"[style = "bold", color="red", pos = "5.65657,3.0303!" ];
+	"0"[style = "bold", color="blue", pos = "17.1717,4.0404!" ];
+	"0" -- "4
+(5)" [style = "bold", label = "", color="black" ];
+	"4
+(5)" -- "10
+(19)" [style = "bold", label = "", color="black" ];
+	"10
+(19)" -- "11
+(16)" [style = "bold", label = "", color="black" ];
 	"11
-(25)" -- "27
+(16)" -- "12
+(2)" [style = "bold", label = "", color="black" ];
+	"12
+(2)" -- "22
 (12)" [style = "bold", label = "", color="black" ];
-	"27
-(12)" -- "22
-(20)" [style = "bold", label = "", color="black" ];
 	"22
-(20)" -- "32
-(3)" [style = "bold", label = "", color="black" ];
-	"32
-(3)" -- "0" [style = "bold", label = "", color="black" ];
-	"0" -- "8
-(19)" [style = "bold", label = "", color="red" ];
-	"8
-(19)" -- "33
-(2)" [style = "bold", label = "", color="red" ];
-	"33
-(2)" -- "35
-(13)" [style = "bold", label = "", color="red" ];
-	"35
-(13)" -- "23
-(21)" [style = "bold", label = "", color="red" ];
+(12)" -- "23
+(9)" [style = "bold", label = "", color="black" ];
 	"23
-(21)" -- "30
-(25)" [style = "bold", label = "", color="red" ];
-	"30
-(25)" -- "10
-(8)" [style = "bold", label = "", color="red" ];
-	"10
-(8)" -- "21
-(9)" [style = "bold", label = "", color="red" ];
-	"21
-(9)" -- "0" [style = "bold", label = "", color="red" ];
-	"0" -- "9
-(23)" [style = "bold", label = "", color="green" ];
-	"9
-(23)" -- "17
-(13)" [style = "bold", label = "", color="green" ];
-	"17
-(13)" -- "36
-(14)" [style = "bold", label = "", color="green" ];
-	"36
-(14)" -- "15
-(13)" [style = "bold", label = "", color="green" ];
-	"15
-(13)" -- "13
-(5)" [style = "bold", label = "", color="green" ];
-	"13
-(5)" -- "2
-(5)" [style = "bold", label = "", color="green" ];
-	"2
-(5)" -- "14
-(17)" [style = "bold", label = "", color="green" ];
-	"14
-(17)" -- "24
-(8)" [style = "bold", label = "", color="green" ];
-	"24
-(8)" -- "0" [style = "bold", label = "", color="green" ];
-	"0" -- "18
-(19)" [style = "bold", label = "", color="blue" ];
-	"18
-(19)" -- "19
-(5)" [style = "bold", label = "", color="blue" ];
-	"19
-(5)" -- "34
-(24)" [style = "bold", label = "", color="blue" ];
-	"34
-(24)" -- "28
-(4)" [style = "bold", label = "", color="blue" ];
+(9)" -- "28
+(3)" [style = "bold", label = "", color="black" ];
 	"28
-(4)" -- "31
-(7)" [style = "bold", label = "", color="blue" ];
-	"31
-(7)" -- "37
-(14)" [style = "bold", label = "", color="blue" ];
-	"37
-(14)" -- "20
-(26)" [style = "bold", label = "", color="blue" ];
-	"20
-(26)" -- "0" [style = "bold", label = "", color="blue" ];
-	"0" -- "26
-(13)" [style = "bold", label = "", color="magenta" ];
-	"26
-(13)" -- "12
-(1)" [style = "bold", label = "", color="magenta" ];
-	"12
-(1)" -- "3
-(8)" [style = "bold", label = "", color="magenta" ];
-	"3
-(8)" -- "1
-(12)" [style = "bold", label = "", color="magenta" ];
-	"1
-(12)" -- "4
-(12)" [style = "bold", label = "", color="magenta" ];
-	"4
-(12)" -- "16
-(9)" [style = "bold", label = "", color="magenta" ];
-	"16
-(9)" -- "25
-(12)" [style = "bold", label = "", color="magenta" ];
+(3)" -- "2
+(23)" [style = "bold", label = "", color="black" ];
+	"2
+(23)" -- "33
+(8)" [style = "bold", label = "", color="black" ];
+	"33
+(8)" -- "0" [style = "bold", label = "", color="black" ];
+	"0" -- "7
+(12)" [style = "bold", label = "", color="red" ];
+	"7
+(12)" -- "35
+(66)" [style = "bold", label = "", color="red" ];
+	"35
+(66)" -- "25
+(4)" [style = "bold", label = "", color="red" ];
 	"25
-(12)" -- "6
-(12)" [style = "bold", label = "", color="magenta" ];
+(4)" -- "16
+(17)" [style = "bold", label = "", color="red" ];
+	"16
+(17)" -- "0" [style = "bold", label = "", color="red" ];
+	"0" -- "13
+(26)" [style = "bold", label = "", color="green" ];
+	"13
+(26)" -- "30
+(26)" [style = "bold", label = "", color="green" ];
+	"30
+(26)" -- "15
+(19)" [style = "bold", label = "", color="green" ];
+	"15
+(19)" -- "32
+(21)" [style = "bold", label = "", color="green" ];
+	"32
+(21)" -- "27
+(8)" [style = "bold", label = "", color="green" ];
+	"27
+(8)" -- "0" [style = "bold", label = "", color="green" ];
+	"0" -- "14
+(13)" [style = "bold", label = "", color="blue" ];
+	"14
+(13)" -- "6
+(18)" [style = "bold", label = "", color="blue" ];
 	"6
-(12)" -- "29
-(19)" [style = "bold", label = "", color="magenta" ];
+(18)" -- "36
+(21)" [style = "bold", label = "", color="blue" ];
+	"36
+(21)" -- "29
+(18)" [style = "bold", label = "", color="blue" ];
 	"29
-(19)" -- "0" [style = "bold", label = "", color="magenta" ];
-label="Instance: A-n38-k5 Capacity: 100 Cost: 730";
+(18)" -- "24
+(18)" [style = "bold", label = "", color="blue" ];
+	"24
+(18)" -- "0" [style = "bold", label = "", color="blue" ];
+	"0" -- "18
+(8)" [style = "bold", label = "", color="magenta" ];
+	"18
+(8)" -- "17
+(14)" [style = "bold", label = "", color="magenta" ];
+	"17
+(14)" -- "34
+(19)" [style = "bold", label = "", color="magenta" ];
+	"34
+(19)" -- "1
+(1)" [style = "bold", label = "", color="magenta" ];
+	"1
+(1)" -- "3
+(23)" [style = "bold", label = "", color="magenta" ];
+	"3
+(23)" -- "5
+(7)" [style = "bold", label = "", color="magenta" ];
+	"5
+(7)" -- "8
+(20)" [style = "bold", label = "", color="magenta" ];
+	"8
+(20)" -- "20
+(5)" [style = "bold", label = "", color="magenta" ];
+	"20
+(5)" -- "0" [style = "bold", label = "", color="magenta" ];
+	"0" -- "26
+(20)" [style = "bold", label = "", color="cyan" ];
+	"26
+(20)" -- "21
+(19)" [style = "bold", label = "", color="cyan" ];
+	"21
+(19)" -- "9
+(19)" [style = "bold", label = "", color="cyan" ];
+	"9
+(19)" -- "19
+(10)" [style = "bold", label = "", color="cyan" ];
+	"19
+(10)" -- "31
+(21)" [style = "bold", label = "", color="cyan" ];
+	"31
+(21)" -- "0" [style = "bold", label = "", color="cyan" ];
+label="Instance: A-n37-k6 Capacity: 100 Cost: 949";
 fontsize=30;
 }
