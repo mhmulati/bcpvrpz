@@ -1,0 +1,11 @@
+[Dolphin]
+HeaderColumnWidths=367,75,153,84
+SortFoldersFirst=false
+SortRole=tags
+Timestamp=2019,4,2,13,29,52
+Version=4
+ViewMode=1
+VisibleRoles=Details_text,Details_size,Details_modificationtime,Details_tags,CustomizedDetails
+
+[Settings]
+HiddenFilesShown=true
